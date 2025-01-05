@@ -3,7 +3,7 @@
 
 ## Script Documentation
 
-The [**Happy_new_year_animation**](https://github.com/alancfel/Happy_new_year_animation) script is developed by [Dr. Zhipeng Huang](https://zhipeng-huang.netlify.app/). It creates a animation of 2025 Happy New Year. It can be customed to create animation of different contents.
+The [**Happy_new_year_animation**](https://github.com/alancfel/Happy_new_year_animation) script is developed by [Dr. Zhipeng Huang](https://zhipeng-huang.netlify.app/). It creates an animation of 2025 Happy New Year. It can be customed to create animation of different contents.
 
 The [**application documentation for the `main` branch**](https://github.com/alancfel/Happy_new_year_animation) is automatically published on this project's *GitHub Page*. 
 
