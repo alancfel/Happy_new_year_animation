@@ -27,7 +27,7 @@ Follow these steps to set up `Happy_new_year_animation` script:
 
 2. Click the MATLAB run button to executive the script.
 
-3. It will generate a image named `tem.jpg` showing the animated picture. The animated video will be saved as `new_year_animation.mp4`. These file names can be customed. The animated video will display the image in a shuffle mode.
+3. It will generate an image named `tem.jpg` showing the animated picture. The animated video will be saved as `new_year_animation.mp4`. These file names can be customed. The animated video will display the image in a shuffle mode.
 
 ## Ackowledgement
 
